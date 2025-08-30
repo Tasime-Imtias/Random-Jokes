@@ -61,6 +61,7 @@ API: http://localhost:3000/api/joke
 Static site (if served by Express): http://localhost:3000
 
 # 🧩 Project Structure
+
 random-jokes/
 ├─ public/               # static assets
 ├─ src/
