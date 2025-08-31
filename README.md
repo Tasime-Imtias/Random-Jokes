@@ -1,4 +1,4 @@
-Random Jokes 😄
+# Random Jokes 😄
 
 A tiny, fast web app that serves up fresh random jokes—perfect for demos, practice projects, or when your brain needs a giggle break.
 
@@ -18,10 +18,9 @@ Pluggable joke sources (local JSON or external APIs)
 
 🧱 Tech Stack (example)
 
-Frontend: HTML + CSS + JS (or React/Vite)
+Frontend: HTML + CSS + JS 
 
-Backend (optional): Node.js + Express
-
+Backend (optional): Node.js 
 Testing: Vitest/Jest (optional)
 
 Tooling: ESLint + Prettier
